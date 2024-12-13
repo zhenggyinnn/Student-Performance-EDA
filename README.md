@@ -46,4 +46,4 @@ The findings and recommendations from the EDA are summarized in the final report
 To run the analysis or explore the datasets:
 1. Clone this repository: 
    ```bash
-   git clone https://github.com/your-username/student-performance-analysis.git
+   git clone https://github.com/zhenggyinnn/Student-Performance-EDA.git

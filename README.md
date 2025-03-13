@@ -39,6 +39,7 @@ The findings and recommendations from the EDA are summarized in the final report
 - Key insights into the data.
 - Observed trends and patterns.
 - Recommendations for improving student performance based on the analysis.
+- To view the final report, please click on https://drive.google.com/drive/folders/10kLDNSftShDumsvk20Jo9STcARfUFXqT?usp=share_link
 
 ---
 
